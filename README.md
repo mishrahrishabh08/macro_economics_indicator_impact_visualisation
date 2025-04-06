@@ -41,7 +41,7 @@ source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 
 ## ⚙️ Preprocessing Notes
 - All CSV files were programmatically merged using a script that relies on a common `date` column.
-- One CSV file had inconsistent column naming, which was manually corrected to ensure smooth merging.
+- `sp500.csv` file had inconsistent column naming, which was manually corrected to ensure smooth merging.
 - Columns were standardized to lowercase and stripped of leading/trailing spaces for consistency.
 
 ---
