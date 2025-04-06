@@ -1,7 +1,7 @@
 # Macro-Economic Indicator Impact Simulator
 
 ## 📌 Objective
-The objective of this project is to **analyze the impact of macro-economic indicators** (GDP, Unemployment Rate, Inflation) on the **S&P 500 index** over time using data from trusted sources such as the **FRED API** and **Yahoo Finance**. This analysis aims to uncover trends, correlations, and anomalies between economic health and market behavior.
+The objective of this project is to **understand and demonstrate data collection, preprocessing, and visualization** to analyze the impact of **macro-economic indicators** (GDP, Unemployment Rate, Inflation) on the **S&P 500 index** over time. The project utilizes data from trusted sources such as the **FRED API** and **Yahoo Finance**, aiming to uncover trends, correlations, and anomalies between economic health and market behavior.
 
 ---
 
